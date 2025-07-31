@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: todo-app
-        image: bayaras009/todo-app:21
+        image: bayaras009/todo-app:22
         ports:
         - containerPort: 5000
